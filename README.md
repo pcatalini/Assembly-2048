@@ -4,12 +4,11 @@
 
 ## About the project
 
-### This program was developed to learn instructions of 8086 processor, it was a task for the Computer engineer course at university of PUC Campinas brazil.
+This program was developed to learn instructions of 8086 processor, it was a task for the Computer engineer course at university of PUC Campinas brazil.
 
 ## How i can run it?
 
-### It will be necessary to run it within an DOS enviroment, of course is not gonna be eazy to find an original computer with DOS to run this game, but fortunately we can use DOSBOX as our DOS emulator, it's works fine
-### It will be necessary to run inside a DOS environment, of course it's not eazy to find a original computer with DOS on now's days, however we can do that by using virtual machine like DOSBOX
+It will be necessary to run inside a DOS environment, of course it's not easy to find a original computer with DOS on now's days, however we can do that by using virtual machine like DOSBOX
 
 ## Steps to setup enviroment
 1. First download the [DOSBOX](https://www.dosbox.com/download.php?main=1) and follow the official documentation to install it;
@@ -44,6 +43,4 @@
     2048.EXE
     ```
 ## Other informations
-### The performance can be increased by typing the keys `Ctrl+f12` or decrease using `Ctrl+f11`, I recomanded to decrease velocity at least once to check what is happening on the screen during the screen print process
-
-### Enjoy!
+The performance can be increased by typing the keys `Ctrl+f12` or decrease using `Ctrl+f11`, it is recommended to decrease velocity at least once to check what is happening on the screen during the screen print process
